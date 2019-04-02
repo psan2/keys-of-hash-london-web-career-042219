@@ -8,6 +8,6 @@ class Hash
         end
       end
     end
+    key_array
   end
-  key_array
 end
